@@ -1,6 +1,6 @@
 # burp
 
-This might be a bad idea and nothing works.
+This might be a bad idea and nothing works. Except this:
 
 Sample templates:
 - [`test1`](https://github.com/ragnard/burp/blob/master/resources/test1.haml)
